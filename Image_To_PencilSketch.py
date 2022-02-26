@@ -1,7 +1,7 @@
 """
 Daka Saikrishna Reddy
 Data Science Internship at Let's Grow More
-LGMVIP FEBRUARY 2022
+LGMVIP March 2022
 Beginner Level Task - Image to Pencil sketch with python
 """
 import cv2
